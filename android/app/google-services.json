@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704969541498",
+    "project_id": "notification-app-f403a",
+    "storage_bucket": "notification-app-f403a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704969541498:android:383b37adeb4ae6dc4138c3",
+        "android_client_info": {
+          "package_name": "com.example.pack_and_notifacation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKnns1sAlSYUSNINmAMU4mjDZJbZukVS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
